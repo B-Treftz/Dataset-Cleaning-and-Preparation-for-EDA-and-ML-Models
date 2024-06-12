@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-<img title="a title" alt="Alt text" src="/Images/plane.jpg">
+<img title="a title" alt="Alt text" src="/Images/plane-marina-hinic.jpg">
 
 
-<h1 style="text-align: center;">Dataset Cleaning and Preparation for EDA and ML Models</h1>
+<h1 style="text-align: center;">Cleaning and Preparing On-Time Flight Data for EDA and ML Models</h1>
 
 
 <h3 style="text-align: center;">Executive Summary</h3>
