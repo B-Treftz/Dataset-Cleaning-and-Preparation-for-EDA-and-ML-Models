@@ -4,6 +4,8 @@
 
 <h1 style="text-align: center;">Cleaning and Preparing On-Time Flight Data for EDA and ML Models</h1>
 
+<h3 style="text-align: center;">Notebook Link</h3>
+<b>https://github.com/B-Treftz/Dataset-Cleaning-and-Preparation-for-EDA-and-ML-Models/blob/main/Notebooks/Data_Cleaning_and_Preparation.ipynb</b>
 
 <h3 style="text-align: center;">Executive Summary</h3>
 
